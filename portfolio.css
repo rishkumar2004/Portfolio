@@ -1,0 +1,98 @@
+h1 {
+    border-bottom: 5px solid black;
+    font-size: 45px;
+}
+.resume {
+    display: flex;
+    flex-direction: row;
+}
+
+/* Block 1 */
+
+
+.block1 {
+    background-color: rgb(0, 2, 31);
+    height: 1600px;
+    width: 432px;
+    color: white;
+}
+.block1 h1 {
+    border-bottom: 5px solid white;
+    padding-left: 40px;
+}
+.block1 h3 {
+    padding-left: 40px;
+    }
+.block1 p {
+padding-left: 60px;
+}
+.pf_pic {
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    border-radius: 50%;
+    background-image: url(profile_pic.png);
+    background-size: cover;
+}
+.dp {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.hobbies_1 {
+    padding-left: 60px;
+
+}
+
+/* Block 2 */
+
+
+.block2 {
+    background-color: rgba(231, 240, 255, 0.198);
+    height: 1600px;
+    width: 648px;
+}
+.block2 h1 {
+padding-left: 40px;
+}
+.eh {
+padding-left: 40px;
+}
+.name_intro {
+    padding-left: 40px;
+    font-size: 50px;
+}
+.sub_intro {
+    color: grey;
+    padding-left: 40px;
+    font-size: 24.64px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.intro {
+    color: grey;
+    padding-left: 40px;
+}
+.description {
+    padding-left: 60px;
+    color: grey;
+
+}
+.websites {
+    padding-left: 60px;
+}
+.link {
+    text-decoration: none;
+    color: grey;
+}
+.reference {
+margin-top: 45px;
+}
+h4 {
+    padding-left: 40px;
+    color: grey; 
+}
+.name_ref {
+    padding-left: 40px;
+    color: grey;
+}
